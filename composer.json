@@ -15,5 +15,12 @@
         "psr-4": {
             "Shakhawat\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Shakhawat\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
