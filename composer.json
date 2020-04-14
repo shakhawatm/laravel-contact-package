@@ -1,0 +1,19 @@
+{
+    "name": "shakhawat/contact",
+    "description": "This will send contact information and will store in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shakhawat",
+            "email": "sh.sumon99@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Shakhawat\\Contact\\": "src/"
+        }
+    }
+}
